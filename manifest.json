@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-doc",
+  "repo": "sphinx-autobuild",
+  "versions": [
+    {
+      "commit": "c9b7cb990e9bec1c433f737329b92655adc39a9d",
+      "parsed_at": "2026-10-11T23:08:54.123772+00:00",
+      "filetree": "filetree/c9b7cb990e9bec1c433f737329b92655adc39a9d.nq.gz",
+      "blobs": [
+        "blob/49a8571e5caec3d2f5c751edf4613203191bb1f8.nq.gz",
+        "blob/1144e1957a318c73971e21fe8f3414be26462d5f.nq.gz",
+        "blob/ae12575a5c929f72b5cd698faff370574fc8532f.nq.gz",
+        "blob/16e19fb29e4c52210bab33aba46d411cd9fa64c9.nq.gz",
+        "blob/5f4470a9e2b81159142299bc238b612acc623124.nq.gz",
+        "blob/adcb47b033f5ba14ad491ac17b330080f42457d8.nq.gz",
+        "blob/b1f058f9cb7083d68ac46763bec30880a8f420c7.nq.gz",
+        "blob/9672e6040d48d9ddd931cfedf0bfb2663d8029e6.nq.gz",
+        "blob/2a84b71bd12a400ff7c854416c66e76e703d87d3.nq.gz",
+        "blob/4dc6edd73c27bb69f5d0d44ea3e7ecc6ccc505c2.nq.gz",
+        "blob/7c3340e511e8f74cf507b930fdac5f0a2ba7e470.nq.gz",
+        "blob/190b9a136436fc9f146b45ee3406a86e6517484c.nq.gz",
+        "blob/84364ff025b8f0a30356969fbe30a6bb1d5c7390.nq.gz",
+        "blob/87c4a9a1f5822d54cfd16873dc85281012f1f9f8.nq.gz",
+        "blob/13b6f300ca035e11d884e025361abe1c6ee05c9f.nq.gz",
+        "blob/30cf4d7ac7f0d36c691423778bf0aaa1ae9b2f9f.nq.gz",
+        "blob/7fda8282142e44f7e763c30311416fa93cc79817.nq.gz",
+        "blob/153796349c1c652484cf745df4a1025edcedd8b9.nq.gz",
+        "blob/22979e91707f60e2ae2ae4b6ed7212606ff6bb22.nq.gz",
+        "blob/e1e3be485181efe73a5df226439bc9c4862349d4.nq.gz",
+        "blob/8dd0f9f54c2d69fe5244d3f6ff87933c49f9df7b.nq.gz",
+        "blob/4f4a70e10711d23bbaeac0f1c7218121ea8c07ee.nq.gz",
+        "blob/c32b3f27aabe4522b2eb3aa973c4ef9847eacb0d.nq.gz",
+        "blob/a903f4d0f965d5078b1faa52818f2e71413202c9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
