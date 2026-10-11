@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinx-autobuild/commit/c9b7cb990e9bec1c433f737329b92655adc39a9d",
       "git:hexsha": "c9b7cb990e9bec1c433f737329b92655adc39a9d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T23:11:37.480936+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-doc/sphinx-autobuild/commit/425f51570c5530f8abf7d8c1268638b5365ea3b9",
