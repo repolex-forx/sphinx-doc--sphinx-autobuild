@@ -96,6 +96,92 @@
       ],
       "ast": [
         "aggregate/ast/e0f40b6359ca00a48ca5ba903de1e25da27de453/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e0f40b6359ca00a48ca5ba903de1e25da27de453.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "watchdog",
+          "ecosystem": "PYPI",
+          "version": "0.7.1",
+          "githubOrg": "gorakhargosh",
+          "githubRepo": "watchdog",
+          "githubCommit": "808d858d49d66d845447e00972eab8d1c1195e86",
+          "githubTag": "v0.7.1",
+          "githubUrl": "https://github.com/gorakhargosh/watchdog",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "argh",
+          "ecosystem": "PYPI",
+          "version": "0.24.1",
+          "githubOrg": "neithere",
+          "githubRepo": "argh",
+          "githubUrl": "https://github.com/neithere/argh",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "pathtools",
+          "ecosystem": "PYPI",
+          "version": "0.1.2",
+          "githubOrg": "gorakhargosh",
+          "githubRepo": "pathtools",
+          "githubUrl": "http://github.com/gorakhargosh/pathtools",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "pyyaml",
+          "ecosystem": "PYPI",
+          "version": "3.10",
+          "githubOrg": "yaml",
+          "githubRepo": "pyyaml",
+          "githubCommit": "23c952fe08b2e7ea0f8d7673f45b17547e331f4b",
+          "githubTag": "3.10",
+          "githubUrl": "https://github.com/yaml/pyyaml",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "tornado",
+          "ecosystem": "PYPI",
+          "version": "3.2",
+          "githubOrg": "tornadoweb",
+          "githubRepo": "tornado",
+          "githubUrl": "https://github.com/tornadoweb/tornado",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "port-for",
+          "ecosystem": "PYPI",
+          "version": "0.3.1",
+          "githubOrg": "fizyk",
+          "githubRepo": "port-for",
+          "githubCommit": "5ffa6281781215a165256b6bd57aea25e63b9902",
+          "githubTag": "0.3.1",
+          "githubUrl": "https://github.com/fizyk/port-for",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "livereload",
+          "ecosystem": "PYPI",
+          "version": "2.3.0",
+          "githubOrg": "lepture",
+          "githubRepo": "python-livereload",
+          "githubCommit": "6ef7df430e5677acc6f063513e71e5345ff872e6",
+          "githubTag": "v2.3.0",
+          "githubUrl": "https://github.com/lepture/python-livereload",
+          "source": "build_file:requirements.txt"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
